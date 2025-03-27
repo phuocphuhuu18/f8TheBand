@@ -374,6 +374,10 @@ html {
     float: right;
 }
 
+.contact-form .submit-form:hover {
+    opacity: .6;
+}
+
 /* MAP SECTION */
 .map-section img {
     width: 100%;
